@@ -1,0 +1,2 @@
+# BitCoin-Price-Prediction
+Goal of the Project : Price Prediction for Bitcoin:  Now a days Bitcoin cryptocurrency is too much famous and due to that most of the people are crazy to invest in the Bitcoin, so they are looking at the Bitcoin as  a safe investments with maximum returns. Bitcoin has too much trending like  stock market. There are many factors which are affecting the price of Bitcoin, that's the reason we are looking to predict the future price of the Bitcoin with the help of Open source libraries like Python, Facebook Prophet.
